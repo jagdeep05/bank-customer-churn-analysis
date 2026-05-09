@@ -84,7 +84,6 @@ jupyter notebook Bank_Customer_Churn_Analysis.ipynb
 
 ---
 
-## Resume Bullets (ATS-Optimised)
 > Conducted end-to-end churn analysis on 10,000+ bank customer records using SQL and Python (Pandas, Matplotlib, Seaborn), identifying top 3 churn risk segments across geography, age group, and balance tier.
 
 > Wrote complex SQL queries to segment customers by churn status across 5 dimensions — geography, gender, age band, balance, and product count — uncovering key behavioural patterns in churned vs retained customers.
